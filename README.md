@@ -1,2 +1,2 @@
-# Alfa
-this is a web developmen repository
+# alfa
+This is a web development repository
